@@ -10,6 +10,8 @@ module top_module(
     not ( c_no, c);
     not ( d_no, d);
     
+    
+    
     and ( w1, d_no, a_no);
     and (w2, b_no, c_no);
     and (w3, a,c,d);
