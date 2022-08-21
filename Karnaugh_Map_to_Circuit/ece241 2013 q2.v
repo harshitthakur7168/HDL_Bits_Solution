@@ -6,8 +6,7 @@ module top_module (
     output out_sop,
     output out_pos
 ); 
-    
-    
+       
     wire anot, bnot, cnot, dnot, w1, w2, w3, w4;
     not (anot, a);
     not (bnot, b);
